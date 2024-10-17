@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FAD052-04D4-4083-B102-E4098C98E352}|Exercise7\\Exercise7.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\exercise7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FAD052-04D4-4083-B102-E4098C98E352}|Exercise7\\Exercise7.csproj|solutionrelative:exercise7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562F92E0-BFD4-4E39-8BBD-F9705394EB42}|Tutorial6\\Tutorial6.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\tutorial6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562F92E0-BFD4-4E39-8BBD-F9705394EB42}|Tutorial6\\Tutorial6.csproj|solutionrelative:tutorial6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16431A49-8A93-47FF-93E3-97155E950326}|Exercise6\\Exercise6.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\exercise6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16431A49-8A93-47FF-93E3-97155E950326}|Exercise6\\Exercise6.csproj|solutionrelative:exercise6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B3AEA5-C0B5-4B7D-AA0F-881275CDBD08}|Exercise4\\Exercise4.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B3AEA5-C0B5-4B7D-AA0F-881275CDBD08}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379B452B-6B42-44C5-B282-1094A2076871}|Exercise3\\Exercise3.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B452B-6B42-44C5-B282-1094A2076871}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EACB31D-9114-4A9E-9835-1F5B2371EE85}|Exercise2\\Exercise2.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EACB31D-9114-4A9E-9835-1F5B2371EE85}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5238C05-FC92-425B-9B11-9F6173D6522C}|Exercise1\\Exercise1.csproj|d:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\lab-6\\tutorial6\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5238C05-FC92-425B-9B11-9F6173D6522C}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 124,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise7\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise7\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise7\\Program.cs",
+              "RelativeToolTip": "Exercise7\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:25:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise6\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise6\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise6\\Program.cs",
+              "RelativeToolTip": "Exercise6\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:25:44.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise4\\Program.cs",
+              "RelativeToolTip": "Exercise4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:24:28.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise3\\Program.cs",
+              "RelativeToolTip": "Exercise3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:24:19.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise2\\Program.cs",
+              "RelativeToolTip": "Exercise2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:24:03.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Exercise1\\Program.cs",
+              "RelativeToolTip": "Exercise1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:23:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Tutorial6\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial6\\Program.cs",
+              "ToolTip": "D:\\\u7F51\u7EDC\u5F00\u53D1\u5B9E\u9A8C\u62A5\u544A\\Lab-6\\Tutorial6\\Tutorial6\\Program.cs",
+              "RelativeToolTip": "Tutorial6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:23:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

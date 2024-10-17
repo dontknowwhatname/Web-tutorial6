@@ -1,0 +1,14 @@
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\bin\Debug\net8.0\Exercise7.exe
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\bin\Debug\net8.0\Exercise7.deps.json
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\bin\Debug\net8.0\Exercise7.runtimeconfig.json
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\bin\Debug\net8.0\Exercise7.dll
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\bin\Debug\net8.0\Exercise7.pdb
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.AssemblyInfoInputs.cache
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.AssemblyInfo.cs
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.csproj.CoreCompileInputs.cache
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.dll
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\refint\Exercise7.dll
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.pdb
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\Exercise7.genruntimeconfig.cache
+D:\网络开发实验报告\Lab-6\Tutorial6\Exercise7\obj\Debug\net8.0\ref\Exercise7.dll
